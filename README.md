@@ -12,7 +12,7 @@ Guillermo Rodas
 
 1. Create your own cards layout by using Grid and Flex box.
 
-2. You can be inspired by the example we saw during lesson but you must do important changes.
+2. You can be inspired by the example we saw during lesson but you must do important modifications.
 
 ### 🛠 Tools
 
